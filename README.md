@@ -3,7 +3,7 @@ Welcome to beach-azon! An amazon like app for purchasing your basic items for a 
 
 Next I created a node application where the customer would be interacticng with the storefront and making selections. Running `beachazon.js` will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 
-When the customer enters the store they are prommpted with two messages. 
+When the customer enters the store they are prompted with two messages. 
 1. Asking the customer the product in which they would like to purchase?
 2. Asking the customer the quantity of the product they would like to purchase?
 
