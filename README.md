@@ -9,5 +9,7 @@ When the customer enters the store they are prompted with two messages.
 
 When the customer places the order on beachazon there are two options - either there will be enough in stock of that product for the customer to proceed with more orders (this updates the SQL databse to reflect the remaining qty), or the app will log that there is an 'Insufficient quantity', and the order cannot be placed.
 
+Customer also has the option to Exit out of the application if they wish to and start over. If so they just simply run the 'beachazon.js' file through node to begin again.
+
 Video demo here: https://drive.google.com/file/d/11ic3GlxBYY2hOwu8SwQLpe-gYVsq4wTx/view
 
